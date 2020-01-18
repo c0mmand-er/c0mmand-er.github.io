@@ -1,4 +1,4 @@
-title:            c0mmand3r
+title:            c0mmander
 description:      Hack
 disqus_shortname: 
 reading_time:     true
@@ -10,11 +10,11 @@ url:
 # Owner/author information
 owner:
   name:           Salah ElSheikh
-  avatar:         avatar.jpg
+  avatar:         salah.jpg
   bio:            " I love breaking into systems "
   email:          salah.m.elshikh@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter:        0xelsheikh
   facebook:       
   github:         
   stackexchange:  
