@@ -116,7 +116,7 @@ While testing an Android app, we found a chat endpoint. Using this endpoint, an 
 - Editor
 - Analyst
 
-Via the website, the admin and the editor are allowed to access chat while the analyst didn't have chat access. In this bug, analysts were able to escalate privileges to delete conversations using their access tokens generated from the android app. 
+Via the website, the admin and the editor are allowed to access chat while the analyst didn't have chat access. In this bug, analysts were able to escalate privileges to delete chat using their access tokens generated from the android app. 
 
 ### C: Insecure Direct Object Reference testing
 
